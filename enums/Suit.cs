@@ -2,6 +2,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace DeckOfCards.enums
 {
+    // enumeration of suit names
     public enum Suit
     {
         [Display(Name="Spades")]
